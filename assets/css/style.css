@@ -9,13 +9,12 @@
 body {
   font-family: Roboto, sans-serif;
   font-weight: 300;
+  background-color: #DEF5E5;
 }
 
-#site-name {
+h1, h2 {
   font-family: Lobster, sans-serif;
 }
-
-
 
 
 
