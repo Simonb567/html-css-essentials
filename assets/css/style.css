@@ -9,17 +9,47 @@
 body {
   font-family: Roboto, sans-serif;
   font-weight: 300;
+  color: black;
   background-color: #DEF5E5;
 }
 
 h1, h2 {
   font-family: Lobster, sans-serif;
+  color: black;
 }
 
+#logo {
+  float: left;
+  font-size: 280%;
+}
 
+#menu {
+  font-size: 110%;
+  letter-spacing: 4px;
+}
 
+#menu li {
+  float: right;
+  list-style: none;
+  margin-right: 30px;
+}
 
+#menu a {
+  text-decoration: none;
+  color: inherit;
+}
 
+#menu a:hover {
+  border-bottom: 1px solid black;
+}
+
+#logo, #menu {
+  line-height: 75px;
+}
+
+#active {
+  border-bottom: 1px solid black;
+}
 
 .left-about {
   background-color: yellow;
@@ -38,13 +68,5 @@ h1, h2 {
 }
 
 .social-networks {
-  background-color: pink;
-}
-
-#logo {
-  background-color: red;
-}
-
-#nav-bar {
   background-color: pink;
 }
