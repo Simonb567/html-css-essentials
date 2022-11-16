@@ -87,18 +87,20 @@ hr {
 #club-ethios {
   background-color: pink;
   height: 600px;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 #left-about {
   padding-top: 30px;
-  width: 33%;
+  width: 40%;
   float: left;
   /* background-color: blue; */
 }
 
 #right-about {
   padding-top: 30px;
-  width: 33%;
+  width: 40%;
   float: right;
   /* background-color: red; */
 }
@@ -107,6 +109,7 @@ hr {
   width: 33%;
   margin: 0 auto;
   background-color: green;
+
 }
 
 .left-about-heading {
