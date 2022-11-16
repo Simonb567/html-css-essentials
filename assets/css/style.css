@@ -18,9 +18,16 @@ h1, h2 {
   color: black;
 }
 
+hr {
+  border-top: 1px solid black;
+  width: 100%;
+  margin: 5px;
+}
+
 #logo {
   float: left;
   font-size: 280%;
+  margin-left: 30px;
 }
 
 #menu {
@@ -51,9 +58,11 @@ h1, h2 {
   border-bottom: 1px solid black;
 }
 
-#center-about {
+#center-quote {
   padding-top: 30px;
-  margin: 0 auto;
+  margin: 0 auto 30px;
+  text-align: center;
+  font-size: 140%;
 }
 
 #circle-container {
@@ -66,19 +75,66 @@ h1, h2 {
   border-radius: 50%;
   /* the above creates a circle but needs a square container to be equal in width/height */
   margin: 30px auto;
+  /* background-color: green; */
 }
 
-
-.left-about {
-  background-color: yellow;
+#circle-cover-bg {
+  background: url(../images/footprint.png) no-repeat center center;
+  background-size: contain;
+  height: 100%;
 }
 
-.right-about {
+#club-ethios {
+  background-color: pink;
+  height: 600px;
+}
+
+#left-about {
+  padding-top: 30px;
+  width: 33%;
+  float: left;
+  /* background-color: blue; */
+}
+
+#right-about {
+  padding-top: 30px;
+  width: 33%;
+  float: right;
+  /* background-color: red; */
+}
+
+#center-about {
+  width: 33%;
+  margin: 0 auto;
   background-color: green;
 }
 
+.left-about-heading {
+  width: 60%;
+  float: right;
+  line-height: 30px;
+  clear: both;
+  margin-bottom: 50px;
+}
+
+.right-about-heading {
+  width: 60%;
+  float: left;
+  line-height: 30px;
+  clear: both;
+  margin-bottom: 50px;
+}
+
+
+
+
+
+
+
 .center-cta {
   background-color: red;
+  position: fixed;
+
 }
 
 .times {
