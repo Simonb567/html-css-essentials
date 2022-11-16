@@ -86,7 +86,7 @@ hr {
 
 #club-ethios {
   background-color: pink;
-  height: 600px;
+  height: 400px;
   margin-left: 10%;
   margin-right: 10%;
 }
@@ -105,12 +105,24 @@ hr {
   /* background-color: red; */
 }
 
-#center-about {
-  width: 33%;
-  margin: 0 auto;
-  background-color: green;
-
+#center-sign-up {
+  height: 100px;
+  text-align: center;
+  line-height: 30px;
+  font-size: 140%;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: blue;
 }
+
+#center-sign-up-heading {
+  margin: auto;
+  top: 50%;
+  bottom: 50%;
+  width: 50%;
+  padding: 20px;
+}
+
 
 .left-about-heading {
   width: 60%;
