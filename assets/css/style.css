@@ -142,6 +142,18 @@ hr {
   background-color: red;
 }
 
+.social-networks > li {
+  list-style: none;
+  text-align: center;
+  display: inline;
+}
+
+.social-networks i {
+  font-size: 140%;
+  margin: 1%;
+  padding: 5%;
+  color: black;
+}
 
 .left-about-heading {
   width: 60%;
@@ -159,13 +171,17 @@ hr {
   margin-bottom: 50px;
 }
 
+.social-networks {
+  height: 150px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
 
 
 
 
 
-
-.center-cta {
+/* .center-cta {
   background-color: red;
   position: fixed;
 
@@ -173,8 +189,4 @@ hr {
 
 .times {
   background-color: yellow;
-}
-
-.social-networks {
-  background-color: pink;
-}
+} */
