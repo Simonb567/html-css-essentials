@@ -41,6 +41,10 @@ hr {
   margin-bottom: 20px;
 }
 
+.join-button-container a {
+  text-decoration: none;
+}
+
 .header-container {
   height: 75px;
   margin-left: 10%;
@@ -123,6 +127,10 @@ hr {
     background-color: #f16c6b;
     color: #fafafa;
     display: block;
+}
+
+.thank-you {
+  text-align: center;
 }
 
 #logo {
