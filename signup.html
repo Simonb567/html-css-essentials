@@ -17,42 +17,51 @@
 <body>
   <header>
     <div class="header-container">
-    <a href="index.html" id="site-name">
-      <h1 id="logo">Walkz</h1>
-    </a>
+      <a href="index.html" id="site-name">
+        <h1 id="logo">Walkz</h1>
+      </a>
 
       <nav id="menu">
-      <ul>
-        <li><a href="signup.html" id="active" aria-label="Go to our sign up page">Sign up</a></li>
-        <li><a href="brittas-bay.html" aria-label="Go to our locations section of page">Meet ups</a></li>
-        <li><a href="index.html" aria-label="Go to our home page">Home</a></li>
-      </ul>
+        <ul>
+          <li><a href="signup.html" id="active" aria-label="Go to our sign up page">Sign up</a></li>
+          <li><a href="brittas-bay.html" aria-label="Go to our locations section of page">Meet ups</a></li>
+          <li><a href="index.html" aria-label="Go to our home page">Home</a></li>
+        </ul>
 
       </nav>
     </div>
   </header>
 
-<section class="sign-up-container">
-  <form class="signup-form">
-    <h2>Let's get you & your friend active <i class="fa-solid fa-dog"></i></h2>
-    <label for="fname">First Name</label>
-    <input id="fname" type="text" name="first_name" required>
-    <label for="lname">Last Name</label>
-    <input id="lanem" type="text" name="last_name" required>
-    <label for="email">Email</label>
-    <input id="email" type="email" name="email-address" required>
-    <label for="brittas-bay">Brittas Bay</label>
-    <input id="brittas-bay" type="radio" name="location_preference" value="brittas-bay" required>
-    <label for="glendalough">Glendalough</label>
-    <input id="glendalough" type="radio" name="location_preference" value="glendalough">
-    <label for="sugar-loaf">Sugar Loaf</label>
-    <input id="sugar-loaf" type="radio" name="location_preference" value="sugar-loaf">
-    <label for="any">Any</label>
-    <input id="any" type="radio" name="location_preference" value="any">
-    <input type="submit" value="Sign Up!">
-
-  </form>
-</section>
+  <section class="sign-up-container">
+    <form>
+      <div class="signup-form">
+        <h2>Let's get you & your friend active <i class="fa-solid fa-dog"></i></h2>
+        <label for="fname"><h3>First Name</h3></label>
+        <input class="text-input" id="fname" type="text" name="first_name" required>
+        <br>
+        <label for="lname"><h3>Last Name</h3></label>
+        <input class="text-input" id="lanem" type="text" name="last_name" required>
+        <br>
+        <label for="email"><h3>Email</h3></label>
+        <input class="text-input" id="email" type="email" name="email-address" required>
+        <br>
+        <div class="walk-option-container">
+          <label for="brittas-bay">Brittas Bay</label>
+          <input class="walk-option" id="brittas-bay" type="radio" name="location_preference" value="brittas-bay" required>
+          <label for="glendalough">Glendalough</label>
+          <input class="walk-option" id="glendalough" type="radio" name="location_preference" value="glendalough">
+          <label for="sugar-loaf">Sugar Loaf</label>
+          <input class="walk-option" id="sugar-loaf" type="radio" name="location_preference" value="sugar-loaf">
+          <label for="any">Any</label>
+          <input class="walk-option" id="any" type="radio" name="location_preference" value="any">
+          <br>
+        </div>
+        <div class="join-button-container">
+          <input class="join-button" type="submit" value="Sign Up!">
+        </div>
+      </div>
+    </form>
+  </section>
 
   <section id="locations">
     <div>
