@@ -178,6 +178,10 @@ hr {
   box-sizing: border-box;
 }
 
+#locations h2:hover {
+  color: #f16c6b;
+}
+
 #logo, #menu {
   line-height: 75px;
 }
@@ -268,6 +272,9 @@ hr {
     border-radius: 10px;
 }
 
+#active-location h2 {
+  text-decoration: underline;
+}
 
 /* .center-cta {
   background-color: red;
