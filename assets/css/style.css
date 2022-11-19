@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:wght@300&display=swap');
 
+
+
+
+
 * {
   margin: 0;
   padding: 0;
@@ -303,6 +307,107 @@ hr {
 #logo, #menu {
   line-height: 75px;
 }
+
+@media screen and (max-width: 1495px) {
+  #locations div {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1113px) {
+
+
+  .left-about-heading {
+    margin: auto auto 25px auto;
+  }
+
+  .right-about-heading {
+    margin: auto auto 25px auto;
+  }
+
+  #club-ethios hr {
+    width: 50%;
+    margin: 5px auto 5px auto;
+  }
+
+  #club-ethios div {
+    width: 100%;
+    float: none;
+  }
+
+  #menu li {
+    float: none;
+    display: inline-block;
+  }
+
+  #site-name {
+    text-decoration: none;
+  }
+
+  #menu {
+    text-align: center;
+  }
+
+  #center-quote {
+    padding: 60px 0 30px;
+  }
+
+  #club-ethios {
+    height: 500px;
+  }
+
+  #right-about {
+    padding-top: 0px;
+  }
+
+  #logo {
+    float: none;
+    text-align: center;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 618px) {
+  #club-ethios {
+    height: 550px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .header-container {
+    margin: 0 auto;
+  }
+
+  #menu li {
+    display: block;
+    width: 100%;
+  }
+
+  #menu {
+    line-height: 30px;
+    text-align: center;
+  }
+
+  #club-ethios {
+    margin: 0 auto;
+    padding: 0;
+  }
+
+  #center-sign-up {
+    margin: 0 auto;
+  }
+
+  #center-quote {
+    margin: 120px auto 0;
+    padding: 0 0 30px;
+  }
+
+  #center-sign-up-heading {
+    width: inherit;
+    margin: 40px auto 0;
+  }
+}
+
 
 /* .center-cta {
   background-color: red;
