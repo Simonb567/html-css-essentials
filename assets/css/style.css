@@ -489,11 +489,25 @@ hr {
     font-size: 90%;
   }
 
+  .text-input {
+    width: 75%;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .signup-form label, input {
+    text-align: center;
+  }
+
   .signup-form h3, input {
     font-size: 90%;
   }
 
   #club-ethios {
     height: 700px;
+  }
+
+  .social-networks-ul>li {
+    display: block;
   }
 }
