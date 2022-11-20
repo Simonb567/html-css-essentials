@@ -309,20 +309,30 @@ hr {
 }
 
 @media screen and (max-width: 1495px) {
+  .signup-form {
+    width: 50%;
+  }
+
   #locations div {
     width: 100%;
   }
 }
 
 @media screen and (max-width: 1113px) {
-
-
   .left-about-heading {
     margin: auto auto 25px auto;
   }
 
   .right-about-heading {
     margin: auto auto 25px auto;
+  }
+
+  .map-container {
+    margin-top: 100px;
+  }
+
+  .sign-up-container {
+    margin-top: 100px;
   }
 
   #club-ethios hr {
@@ -333,6 +343,11 @@ hr {
   #club-ethios div {
     width: 100%;
     float: none;
+  }
+
+  #menu ul {
+    display: inline-flex;
+    flex-direction: row-reverse;
   }
 
   #menu li {
@@ -367,15 +382,47 @@ hr {
   }
 }
 
+@media screen and (max-width: 965px) {
+  .signup-form {
+    width: 75%;
+  }
+}
+
+@media screen and (max-width: 644px) {
+  .signup-form {
+    width: 95%;
+  }
+}
+
 @media screen and (max-width: 618px) {
   #club-ethios {
     height: 550px;
   }
 }
 
+@media screen and (max-width: 510px) {
+  .sign-up-container {
+    height: 600px;
+  }
+
+  .signup-form {
+    height: 550px;
+  }
+
+  .walk-option-container label {
+    display: block;
+  }
+
+}
+
 @media screen and (max-width: 500px) {
   .header-container {
     margin: 0 auto;
+  }
+
+  #menu ul {
+    display: flex;
+    flex-direction: column-reverse;
   }
 
   #menu li {
@@ -408,6 +455,63 @@ hr {
   }
 }
 
+@media screen and (max-width: 380px) {
+  #circle-container {
+    width: 200px;
+    height: 200px;
+  }
+
+  #club-ethios {
+    height: 700px;
+  }
+
+  #welcome-bio p {
+    display: inline;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  #circle-container {
+    width: 100px;
+    height: 100px;
+  }
+
+  #club-ethios {
+    height: 775px;
+  }
+
+  #social-network-container {
+    margin: 0 5%;
+  }
+}
+
+@media screen and (max-width: 200px) {
+  h2 {
+    font-size: 110%;
+  }
+
+  p {
+    line-height: 25px;
+    font-size: 90%;
+  }
+
+  h3 {
+    font-size: 100%;
+  }
+
+  .walk-option-container {
+    font-size: 90%;
+  }
+
+  .signup-form h3, input {
+    font-size: 90%;
+  }
+
+  #club-ethios {
+    height: 700px;
+  }
+
+}
 
 /* .center-cta {
   background-color: red;
