@@ -10,7 +10,7 @@ Users of the website will find information regarding meet up locations including
 
 ## Existing Features
 
--_Navigation Bar_-
+-**Navigation Bar**-
 
   - Is featured across all pages, is fully responsive and includes links to the home page, meet up locations page & sign up page.
   - The nav bar is identical across all pages to allow for easy navigation and creates familiarity for the user.
