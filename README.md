@@ -38,20 +38,20 @@ Users of the website will find information regarding meet up locations including
 ![Call to Action](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-signup.png)
 
 -   **Meet Up Location Section**
-  -   This section allows the user to see _Meet up_ locations, days of the week the meet ups happens, times & a rough distance covered.
-  -   These locations, days, time & distance can be updated in the future if anything where to change.
-  -   Additionally the each location name is hyperlinked that when clicked will redirect the user to a _Meet ups_ page with Google Map coordinates for that location.
+    -   This section allows the user to see _Meet up_ locations, days of the week the meet ups happens, times & a rough distance covered.
+    -   These locations, days, time & distance can be updated in the future if anything where to change.
+    -   Additionally the each location name is hyperlinked that when clicked will redirect the user to a _Meet ups_ page with Google Map coordinates for that location.
 
 ![Meet ups Section](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-locations.png)
 
 -   **Meet Up's Landing Page & subsequent locations**
-  -   The locations home page presents the user with Google Map information regarding the meet up locations.
-  -   Each location is hyperlinked and again will present the user with Google Map information for the location clicked.
+    -   The locations home page presents the user with Google Map information regarding the meet up locations.
+    -   Each location is hyperlinked and again will present the user with Google Map information for the location clicked.
 
 ![Meet ups landing page](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-locations.png)
 
 -   **The Footer**
-  -   The footer contains social media icons that when clicked will open the associated social platform in a new tab.
-  -   These social media links further encourages the user to interact with similar minded people associated with the _Walkz_ website/social group.
+    -   The footer contains social media icons that when clicked will open the associated social platform in a new tab.
+    -   These social media links further encourages the user to interact with similar minded people associated with the _Walkz_ website/social group.
 
 ![Footer and Social Media links](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-locations.png)
