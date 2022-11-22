@@ -10,8 +10,15 @@ Users of the website will find information regarding meet up locations including
 
 ## Existing Features
 
-- **Navigation Bar**
+-   **Navigation Bar**
 
-  - Is featured across all pages, is fully responsive and includes links to the home page, meet up locations page & sign up page.
-  - The nav bar is identical across all pages to allow for easy navigation and creates familiarity for the user.
-  - With the use of this nav bar avoids the user having to use the "back" button to navigate to a previous page.
+    -   Is featured across all pages, is fully responsive and includes links to the home page, meet up locations page & sign up page.
+    -   The nav bar is identical across all pages to allow for easy navigation and creates familiarity for the user.
+    -   With the use of this nav bar avoids the user having to use the "back" button to navigate to a previous page.
+
+-   **Site Name**
+
+    -   Is featured across all pages, is fully responsive & is linked to the home landing page when clicked by the user.
+
+![Site Name & Nav Bar](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-nav-bar.png)
+  
