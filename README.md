@@ -21,4 +21,18 @@ Users of the website will find information regarding meet up locations including
     -   Is featured across all pages, is fully responsive & is linked to the home landing page when clicked by the user.
 
 ![Site Name & Nav Bar](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-nav-bar.png)
-  
+
+-   **Center Logo & Quote**
+
+    -   The center logo features a paw print background image set within a circular div of which can also be seen within the title tab of the entire website.
+    -   The center logo combined with the quote _"Be active with a friend"_ aims to grab the attention of users that enjoy being active with their dogs.
+
+![Site Logo & Quote(Be active with a friend)](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-center-logo-fav.png)
+
+-   **Club Ethios Section**
+
+    -   The Club Ethios section opens with a brief introductory as to what the _Walkz_ website is about.
+    -   From intro the user will be able to identify if the _Walkz_ website is something of interest based on their own interests/hobbies i.e Being active with their dogs & indirectly meeting new people.
+    -   Followed from the intro, the user can see some benefits of signing up with the _Walkz_ group.
+
+![Club Ethios Section](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-club-ethios.png)
