@@ -25,7 +25,7 @@ Users of the website will find information regarding meet up locations including
 -   **Center Logo & Quote**
 
     -   The center logo features a paw print background image set within a circular div of which can also be seen within the title tab of the entire website.
-    -   The center logo combined with the quote _"Be active with a friend"_ aims to grab the attention of users that enjoy being active with their dogs.
+    -   The center logo combined with the quote *"Be active with a friend"* aims to grab the attention of users that enjoy being active with their dogs.
 
 ![Site Logo & Quote(Be active with a friend)](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-center-logo-fav.png)
 
@@ -36,3 +36,10 @@ Users of the website will find information regarding meet up locations including
     -   Followed from the intro, the user can see some benefits of signing up with the _Walkz_ group.
 
 ![Club Ethios Section](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-club-ethios.png)
+
+- **Call to Action CTA**
+
+  - Upon reading the intro to the *Walkz* home page, the user has the option to *"Sign Up"* if interested.
+  - The *"Sign Up Today"* text is hyperlinked and upon clicked will redirect the user to the Sign Up page.
+
+![Call to Action](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-club-ethios.png)
