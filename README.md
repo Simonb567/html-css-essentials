@@ -42,4 +42,4 @@ Users of the website will find information regarding meet up locations including
   - Upon reading the intro to the *Walkz* home page, the user has the option to *"Sign Up"* if interested.
   - The *"Sign Up Today"* text is hyperlinked and upon clicked will redirect the user to the Sign Up page.
 
-![Call to Action](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-club-ethios.png)
+![Call to Action](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-signup.png)
