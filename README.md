@@ -55,3 +55,15 @@ Users of the website will find information regarding meet up locations including
     -   These social media links further encourages the user to interact with similar minded people associated with the _Walkz_ website/social group.
 
 ![Footer and Social Media links](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-locations.png)
+
+-   **The Sign Up Page**
+    - The sign up page allows the user to sign up to the *Walkz* social group site & to select a preference in terms of meet up location.
+    - The user will enter their full name & email in order to sign up.
+    - Once signed up the user will be notified via the *"Thank You"* page that they have successfully signed up & will be contacted regarding the next available/organised outing.
+
+![Sign Up landing page](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-signup-page.png)
+![Thank you page](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-thank-you-page.png)
+
+-   **Features left to Implement**
+    - Database for collecting user information
+      - Currently user information is not collected as website is in a beta phase. Instead the user upon entering their information & clicking the *"Sign Up"* button on the *"Sign Up Page"* is redirected via hyperlink to a mock confirmation page.
