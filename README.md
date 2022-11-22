@@ -64,6 +64,33 @@ Users of the website will find information regarding meet up locations including
 ![Sign Up landing page](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-signup-page.png)
 ![Thank you page](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-thank-you-page.png)
 
--   **Features left to Implement**
-    - Database for collecting user information
-      - Currently user information is not collected as website is in a beta phase. Instead the user upon entering their information & clicking the *"Sign Up"* button on the *"Sign Up Page"* is redirected via hyperlink to a mock confirmation page.
+## Features left to Implement**
+-  Database for collecting user information
+   - Currently user information is not collected as website is in a beta phase. Instead the user upon entering their information & clicking the *"Sign Up"* button on the *"Sign Up Page"* is redirected via hyperlink to a mock confirmation page.
+
+## Validator Testing
+-  HTML
+   - No errors were returned when passing through the official W3C validator.
+
+-  CSS
+   - No errors were returned when passing through the official Jigsaw validator.
+
+-  Accessibility
+   - Through the use of Lighthouse as part of devtools, I confirmed that the colours & fonts used are easy to read & accessible.
+
+![Lighthouse Report - Home Page](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-access-home-page.png)
+
+## Testing Overall
+-  I confirmed that the site functions & is responsive across Google Chrome, Safari & Firefox.
+
+![Safari - Walkz Home Page](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-safari.png)   
+![Firefox - Walkz Home Page](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-firefox.png)   
+
+## Bugs & Tweaks
+- When I deployed the site initially to GitHub pages, I discovered that the Google Maps was not loading as part of the *Meet ups* location page.
+- Through the use of the *Lighthouse* reporting & *stack overflow* I found the shortened *bitly* links used to link the map location did not include the HTTP as part of a secured link.
+- Once the links were adjusted to include HTTPS, the links worked for the map locations.
+
+![](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-firefox.png)
+![](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-access-bb-bug-info.png)
+![](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-access-bb.png)
