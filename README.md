@@ -48,13 +48,13 @@ Users of the website will find information regarding meet up locations including
     -   The locations home page presents the user with Google Map information regarding the meet up locations.
     -   Each location is hyperlinked and again will present the user with Google Map information for the location clicked.
 
-![Meet ups landing page](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-locations.png)
+![Meet ups landing page](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-location-landing-page.png)
 
 -   **The Footer**
     -   The footer contains social media icons that when clicked will open the associated social platform in a new tab.
     -   These social media links further encourages the user to interact with similar minded people associated with the _Walkz_ website/social group.
 
-![Footer and Social Media links](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-locations.png)
+![Footer and Social Media links](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-footer-social-media.png)
 
 -   **The Sign Up Page**
     - The sign up page allows the user to sign up to the *Walkz* social group site & to select a preference in terms of meet up location.
@@ -94,3 +94,25 @@ Users of the website will find information regarding meet up locations including
 ![Location page Google Maps bug](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-access-bb-bug.png)
 ![Lighthouse report detailing bug](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-access-bb-bug-info.png)
 ![Fixed Location page](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-access-bb.png)
+
+## Unfixed Bugs
+
+-  No unfixed bugs
+
+## Deployment
+
+-   The site was deployed to GitHub pages. The steps to deploy are as follows:
+    - In the GitHub repository, navigate to the Settings tab.
+    - Within *Code and automation* section, navigate to *Pages*.
+    - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment with a link.
+
+The live link can be found here: ! [Walkz](https://simonb567.github.io/portfolio-1/index.html)
+
+## Credits
+
+-   Content
+    - Social media icon code was taken from the *Love Running* Project adjusted to suits the *Walkz* site.
+-   Media
+    - The paw logo on the home page/title favicon was taken from ! [Freepik](https://www.freepik.com/)
+    - Font icons throughout website was taken from ! [Fontawesome](https://fontawesome.com/icons)
+    - Map locations are linked to ! [Google Maps](https://www.google.com/maps)
