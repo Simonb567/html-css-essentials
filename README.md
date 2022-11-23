@@ -64,7 +64,7 @@ Users of the website will find information regarding meet up locations including
 ![Sign Up landing page](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-signup-page.png)
 ![Thank you page](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-thank-you-page.png)
 
-## Features left to Implement**
+## Features left to Implement
 -  Database for collecting user information
    - Currently user information is not collected as website is in a beta phase. Instead the user upon entering their information & clicking the *"Sign Up"* button on the *"Sign Up Page"* is redirected via hyperlink to a mock confirmation page.
 
@@ -91,6 +91,6 @@ Users of the website will find information regarding meet up locations including
 - Through the use of the *Lighthouse* reporting & *stack overflow* I found the shortened *bitly* links used to link the map location did not include the HTTP as part of a secured link.
 - Once the links were adjusted to include HTTPS, the links worked for the map locations.
 
-![](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-firefox.png)
-![](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-access-bb-bug-info.png)
-![](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-access-bb.png)
+![Location page Google Maps bug](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-access-bb-bug.png)
+![Lighthouse report detailing bug](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-access-bb-bug-info.png)
+![Fixed Location page](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-access-bb.png)
