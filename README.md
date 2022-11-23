@@ -1,15 +1,18 @@
 # Walkz
--  The Walkz website is a social group website for dog lovers that like to be active outdoors with their dogs.
--  The aim of the website is to promote healthy activity outdoors and in the process, meet new people with similar interests.
--  Users of the website will find information regarding meet up locations including Google map coordinates, times, average distance of a walk at meet up location, a sign up form, social media links for the social group and some brief information regarding the benefits of being active with a friend/friends.
+
+-   The Walkz website is a social group website for dog lovers that like to be active outdoors with their dogs.
+-   The aim of the website is to promote healthy activity outdoors and in the process, meet new people with similar interests.
+-   Users of the website will find information regarding meet up locations including Google map coordinates, times, average distance of a walk at meet up location, a sign up form, social media links for the social group and some brief information regarding the benefits of being active with a friend/friends.
 
 ![Responsive Mockup](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-mockup.png)
 
 ## Existing Features
+
 -   **Navigation Bar**
+
     -   Is featured across all pages, is fully responsive and includes links to the home page, meet up locations page & sign up page.
     -   The nav bar is identical across all pages to allow for easy navigation and creates familiarity for the user.
-    -   With the use of this nav bar avoids the user having to use the *"back"* button to navigate to a previous page.
+    -   With the use of this nav bar avoids the user having to use the _"back"_ button to navigate to a previous page.
 
 -   **Site Name**
     -   Is featured across all pages, is fully responsive & is linked to the home landing page when clicked by the user.
@@ -62,40 +65,46 @@
 
 -   **The Sign Up Page**
 
-    - The sign up page allows the user to sign up to the *Walkz* social group site & to select a preference in terms of meet up location.
-    - The user will enter their full name & email in order to sign up.
-    - Once signed up the user will be notified via the *"Thank You"* page that they have successfully signed up & will be contacted regarding the next available/organised outing.
+    -   The sign up page allows the user to sign up to the _Walkz_ social group site & to select a preference in terms of meet up location.
+    -   The user will enter their full name & email in order to sign up.
+    -   Once signed up the user will be notified via the _"Thank You"_ page that they have successfully signed up & will be contacted regarding the next available/organised outing.
 
 ![Sign Up landing page](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-signup-page.png)
 ![Thank you page](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-thank-you-page.png)
 
 ## Features left to Implement
--  Database for collecting user information
-   - Currently user information is not collected as website is in a beta phase. Instead the user upon entering their information & clicking the *"Sign Up"* button on the *"Sign Up Page"* is redirected via hyperlink to a mock confirmation page.
+
+-   Database for collecting user information
+    -   Currently user information is not collected as website is in a beta phase. Instead the user upon entering their information & clicking the _"Sign Up"_ button on the _"Sign Up Page"_ is redirected via hyperlink to a mock confirmation page.
 
 ## Validator Testing
--  HTML
-   - No errors were returned when passing through the official W3C validator.
 
--  CSS
-   - No errors were returned when passing through the official Jigsaw validator.
+-   HTML
 
--  Accessibility
-   - Through the use of Lighthouse as part of devtools, I confirmed that the colours & fonts used are easy to read & accessible.
+    -   No errors were returned when passing through the official W3C validator.
+
+-   CSS
+
+    -   No errors were returned when passing through the official Jigsaw validator.
+
+-   Accessibility
+    -   Through the use of Lighthouse as part of devtools, I confirmed that the colours & fonts used are easy to read & accessible.
 
 ![Lighthouse Report - Home Page](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-access-home-page.png)
 
 ## Testing Overall
--  I confirmed that the site functions & is responsive across Google Chrome, Safari & Firefox.
 
-![Safari - Walkz Home Page](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-safari.png)   
+-   I confirmed that the site functions & is responsive across Google Chrome, Safari & Firefox.
+
+![Safari - Walkz Home Page](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-safari.png)  
 ![Firefox - Walkz Home Page](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-firefox.png)   
 
 ## Bugs & Tweaks
-- When I deployed the site initially to GitHub pages, I discovered that the Google Maps was not loading as part of the *Meet ups* location page.
-- Through the use of the *Lighthouse* reporting & *stack overflow* I found the shortened *bitly* links used to link the map location did not include the HTTPS as part of a secured link, instead only HTTP as part of the link.
-- Once the links were adjusted to include HTTPS, the links worked for the map locations.
-- Additionally through responsive testing, several *Media Queries* were added to CSS styling to make sure that the site was fully responsive to adjusted screen sizes.
+
+-   When I deployed the site initially to GitHub pages, I discovered that the Google Maps was not loading as part of the _Meet ups_ location page.
+-   Through the use of the _Lighthouse_ reporting & _stack overflow_ I found the shortened _bitly_ links used to link the map location did not include the HTTPS as part of a secured link, instead only HTTP as part of the link.
+-   Once the links were adjusted to include HTTPS, the links worked for the map locations.
+-   Additionally through responsive testing, several _Media Queries_ were added to CSS styling to make sure that the site was fully responsive to adjusted screen sizes.
 
 ![Location page Google Maps bug](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-access-bb-bug.png)
 ![Lighthouse report detailing bug](https://github.com/Simonb567/portfolio-1/blob/main/media/walkz-access-bb-bug-info.png)
@@ -103,22 +112,22 @@
 
 ## Unfixed Bugs
 
--  No unfixed bugs
+-   No unfixed bugs
 
 ## Deployment
 
 -   The site was deployed to GitHub pages. The steps to deploy are as follows:
-    - In the GitHub repository, navigate to the Settings tab.
-    - Within *Code and automation* section, navigate to *Pages*.
-    - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment with a link.
+    -   In the GitHub repository, navigate to the Settings tab.
+    -   Within _Code and automation_ section, navigate to _Pages_.
+    -   Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment with a link.
 
 The live link can be found here: [Walkz](https://simonb567.github.io/portfolio-1/index.html)
 
 ## Credits
 
 -   Content
-    - Social media icon code was taken from the *Love Running* Project & adjusted to suit the *Walkz* site.
+    -   Social media icon code was taken from the _Love Running_ Project & adjusted to suit the _Walkz_ site.
 -   Media
-    - The paw logo on the home page/title favicon was taken from [Freepik](https://www.freepik.com/)
-    - Font icons throughout website was taken from [Fontawesome](https://fontawesome.com/icons)
-    - Map locations are linked to [Google Maps](https://www.google.com/maps)
+    -   The paw logo on the home page/title favicon was taken from [Freepik](https://www.freepik.com/)
+    -   Font icons throughout website was taken from [Fontawesome](https://fontawesome.com/icons)
+    -   Map locations are linked to [Google Maps](https://www.google.com/maps)
